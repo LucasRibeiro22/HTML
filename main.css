@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: inline-block;
+}
+
+img {
+    height: 270px;
+}
+
+h3 {
+    width: 50%
+}
+
+.chuva {
+    color: aqua;
+}
+
+.tecnologia {
+    color:blue;
+}
+
+h1 {
+    color: black;
+}
